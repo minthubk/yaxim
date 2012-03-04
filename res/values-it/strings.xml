@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">yaxim</string>
+	<string name="app_name">Bruno</string>
 
 	<!-- Connection state -->
-	<string name="conn_title">yaxim: %s</string>
+	<string name="conn_title">Bruno: %s</string>
 	<string name="conn_connecting">Connessione in corso…</string>
 	<string name="conn_online">Connesso</string>
 	<string name="conn_offline">Non connesso</string>
@@ -18,8 +18,8 @@
 	<string name="Global_JID_hint">utente@jabber.esempio.it</string>
 
 	<!-- FirstStartUpDialog -->
-	<string name="StartupDialog_Title">Benvenuto in yaxim!</string>
-	<string name="StartupDialog_Summary">È necessario configurare yaxim prima di poterlo usare. Inserisci il tuo ID Jabber e la tua password.</string>
+	<string name="StartupDialog_Title">Benvenuto in Bruno!</string>
+	<string name="StartupDialog_Summary">È necessario configurare Bruno prima di poterlo usare. Inserisci il tuo ID Jabber e la tua password.</string>
 	<string name="StartupDialog_pwHint">Inserisci la password</string>
 	<string name="StartupDialog_Username_title">Jabber ID:</string>
 	<string name="StartupDialog_passwd_title">Password:</string>
@@ -47,12 +47,12 @@
 
 	<!-- Startup Setting Strings -->
 	<string name="preftitle_boot">Opzioni di avvio</string>
-	<string name="boot_title">Carica yaxim all\'avvio del telefono</string>
+	<string name="boot_title">Carica Bruno all\'avvio del telefono</string>
 	<string name="boot_summ">Avvia applicazione all\'accensione del telefono</string>
 	<string name="statuspopup_name">Imposta il tuo stato</string>
 	<string name="showOffline_summ">Mostra sempre tutti i contatti nella lista</string>
 	<string name="showOffline_title">Mostra contatti offline</string>
-	<string name="foregroundService_summ">Mantieni yaxim in memoria per garantire una connessione sempre attiva (servizio in background)</string>
+	<string name="foregroundService_summ">Mantieni Bruno in memoria per garantire una connessione sempre attiva (servizio in background)</string>
 	<string name="foregroundService_title">Icona barra di stato</string>
 
 	<string name="preftitle_debug">Debug</string>
@@ -94,7 +94,7 @@
 	<string name="Menu_Status">Stato</string>
 	<string name="Menu_connect">Connetti</string>
 	<string name="Menu_disconnect">Disconnetti</string>
-	<string name="Menu_about">Informazioni su yaxim</string>
+	<string name="Menu_about">Informazioni su Bruno</string>
 
 	<!-- AddFriend -->
 	<string name="addFriend_Title">Aggiungi un contatto</string>
@@ -119,7 +119,7 @@
 	<string name="account_options_title">Opzioni di connessione</string>
 	<string name="account_options_advanced">Opzioni avanzate</string>
 	<string name="connstartup_title">Connettersi all\'avvio</string>
-	<string name="connstartup_summOn">Connettersi quando yaxim viene aperto</string>
+	<string name="connstartup_summOn">Connettersi quando Bruno viene aperto</string>
 	<string name="connstartup_summOff">Non connettersi automaticamente</string>
 	<string name="reconnect_title">Riconnessione automatica</string>
 	<string name="reconnect_summ">Riconnettersi quando cade la connessione</string>
@@ -132,9 +132,9 @@
 
 	<!-- accountprefs -->
 	<string name="account_resource_title">Risorsa del client</string>
-	<string name="account_resource_summ">Predefinito: yaxim</string>
+	<string name="account_resource_summ">Predefinito: Bruno</string>
 	<string name="account_resource_dialog_title">Inserisci la risorsa:</string>
-	<string name="account_resource_hint">yaxim</string>
+	<string name="account_resource_hint">Bruno</string>
 	<string name="account_prio_title">Priorità del client</string>
 	<string name="account_prio_summ">Default: 0 (ammessi: -128 .. 127)</string>
 	<string name="account_prio_dialog_title">Inserisci la priorità:</string>
@@ -178,9 +178,9 @@
 	-->
 
 	<!-- About Dialog -->
-	<string name="AboutDialog_title">Info su yaxim</string>
+	<string name="AboutDialog_title">Info su Bruno</string>
 	<string name="AboutDialog_DevelopersTitle">Sviluppatori</string>
-	<string name="AboutDialog_DevelopersText">Sviluppatori:\n * Georg Lukas\n * Sven Pfleiderer\n * Christian Polzer\n\n Unisciti a noi, richiedici nuove funzionalità o mandaci un po\' di \"Club Mate\" su http://yaxim.org/ o sul canale #yaxim della rete IRC freenode.</string>
+	<string name="AboutDialog_DevelopersText">Sviluppatori:\n * Georg Lukas\n * Sven Pfleiderer\n * Christian Polzer\n\n Unisciti a noi, richiedici nuove funzionalità o mandaci un po\' di \"Club Mate\" su http://Bruno.org/ o sul canale #Bruno della rete IRC freenode.</string>
 	<string name="AboutDialog_LicenceTitle">Licenza</string>
 	<string name="AboutDialog_LicenceText">This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2 as published by the Free Software Foundation. Link: http://www.gnu.org/licenses/gpl-2.0.html\n \n Parts of this software are provided under the MIT License:\n \n Copyright © 2009 Mads Kristiansen, Nullwire ApS\n \n Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: \n The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. \n THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTW</string>
 

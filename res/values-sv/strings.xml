@@ -75,6 +75,8 @@
 	<string-array name="pref_theme_entries">
 		<item>Dark</item>
 		<item>Light</item>
+		<item>Pine</item>
+		<item>Ice</item>
 	</string-array>
 	<string name="preftitle_ui">Appearance</string>
 	<string-array name="fontSizesChat">
@@ -178,7 +180,7 @@
 	<!-- About Dialog -->
 	<string name="AboutDialog_title">Om yaxim</string>
 	<string name="AboutDialog_DevelopersTitle">Utvecklare</string>
-	<string name="AboutDialog_DevelopersText">Utvecklare bland andra:\n * Georg Lukas\n * Sven Pfleiderer\n * Christian Polzer\n\n Joina oss, önska nya häftiga funktioner eller skicka lite \"Club Mate\" på http://yaxim.org/ eller #yaxim på freenode IRC.</string>
+	<string name="AboutDialog_DevelopersText">Contact the developers at http://yaxim.org or on freenode IRC: #yaxim</string>
 	<string name="AboutDialog_LicenceTitle">Licensing</string>
 	<string name="AboutDialog_LicenceText">Denna text har avsiktligt lämnats i sin helhet på orginalspråk: This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2 as published by the Free Software Foundation. Link: http://www.gnu.org/licenses/gpl-2.0.html\n \n Parts of this software are provided under the MIT License:\n \n Copyright © 2009 Mads Kristiansen, Nullwire ApS\n \n Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: \n The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. \n THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
 
@@ -188,14 +190,6 @@
 	<string name="status_dnd">Stör ej</string>
 	<string name="status_xa">Inte tillgänglig</string>
 	<string name="status_offline">Frånkopplad</string>
-
-	<string name="preftitle_ui">User Interface</string>
-	<string name="pref_theme">Theme</string>
-	<string-array name="pref_theme_entries">
-		<item>Dark</item>
-		<item>Light</item>
-		<item>Pine</item>
-	</string-array>
 
 	<string name="translator_credits">Launchpad Contributions:
   Argafål https://launchpad.net/~78luphr0rnk2nuqimstywepozxn9kl19tqh0tx66b5dki1xxsh5mkz9gl21a5rlwfnr8jn6ln0m3j-8hcf0rcot-a811i2i3ytqlsztthjth0svbccw8inm65tmkqp9sarr553jq53in4xm1m8wn3o4rlwaer06ogwvqw
